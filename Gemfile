@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # github info
 gem "github-pages", "~> 219", group: :jekyll_plugins
+
+# webrick workaround
+gem "webrick"
