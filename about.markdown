@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello!  I am an experienced Business Analyst with a demonstrated history of working in the hospital & health care industry.  For a full list of my skills, check out my [LinkedIn](https://www.linkedin.com/in/kroconaill/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Read my blog](/) to see data science projects that I have created!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Links
+- [GitHub](https://github.com/kroconaill)
+- [LinkedIn](https://www.linkedin.com/in/kroconaill)
+- [Tableau Public](https://public.tableau.com/app/profile/kathryn.o.conaill)
+- [Twitter](https://www.twitter.com/dataisnotmagic)
