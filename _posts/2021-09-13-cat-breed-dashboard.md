@@ -3,6 +3,8 @@ layout: post
 title: "Cat Breed Dashboard: Tableau Public"
 ---
 <iframe src="https://public.tableau.com/views/CatBreedDashboard/CatBreedDashboard?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+[View on Tableau Public](https://public.tableau.com/views/CatBreedDashboard/CatBreedDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Why Cats?
 I wanted to try my hand at an interactive Tableau dashboard, so I turned to one of my favorite things: cats!  I have four cats who were all rescued from shelters, and it is fun to try to guess at their origins.  I wanted to put everything we know about cat breeds into a single dashboard to allow the user to see which breeds match their desired characteristics.
 
